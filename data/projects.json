@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Portfolio Website",
+    "description": "This site with responsive layout, day/night theme toggle, and dynamic project rendering.",
+    "link": "#",
+    "tech": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "To-Do App",
+    "description": "A lightweight task manager with localStorage sync.",
+    "link": "#",
+    "tech": ["React", "TypeScript"]
+  },
+  {
+    "title": "API Service",
+    "description": "Small REST API built with FastAPI for demo purposes.",
+    "link": "#",
+    "tech": ["Python", "FastAPI"]
+  },
+  {
+    "title": "Weather Dashboard",
+    "description": "Dashboard that fetches and visualizes forecast data with clean cards and filtering.",
+    "link": "#",
+    "tech": ["JavaScript", "REST API", "Chart.js"]
+  },
+  {
+    "title": "E-commerce UI",
+    "description": "Responsive product listing and cart UI focused on usability and accessibility.",
+    "link": "#",
+    "tech": ["React", "TypeScript", "CSS"]
+  },
+  {
+    "title": "Blog Platform",
+    "description": "Simple markdown-powered blog with category navigation and search.",
+    "link": "#",
+    "tech": ["Node.js", "Express", "MongoDB"]
+  }
+]
